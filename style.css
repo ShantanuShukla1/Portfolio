@@ -1,0 +1,26 @@
+div {
+    color: blue;
+    border-style: dashed;
+    border-color: red;
+    border-width: 5px 2px 10px 5px;
+    text-align: center;
+}
+
+#bruh {
+    color: red;
+}
+.supercoder {
+    color: darkviolet;
+}
+
+.swatch {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+
+.bordered {
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}
